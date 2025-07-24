@@ -1,6 +1,6 @@
 import { LockClosedIcon } from '@heroicons/react/20/solid'
 
-export default function login() {
+export default function Login() {
   return (
     <>
       {/*
